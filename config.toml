@@ -1,0 +1,4 @@
+baseURL = "http://phuge.com/"
+languageCode = "en-us"
+title = "Phuge!"
+theme = "ananke"
