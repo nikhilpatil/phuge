@@ -1,3 +1,8 @@
+To publish to `docs/` folder
+
+    hugo -d ./docs  
+
+
 If it's **the first time** you check-out a repo you need to use ```--init``` first:
 
     git submodule update --init --recursive
