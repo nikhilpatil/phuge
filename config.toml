@@ -1,5 +1,5 @@
 title = "Phuge"
-baseURL = "https://phuge.com"
+baseURL = "http://phuge.com"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
