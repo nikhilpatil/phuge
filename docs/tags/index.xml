@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Phuge</title>
-    <link>http://phuge.com/tags/</link>
+    <link>https://phuge.com/tags/</link>
     <description>Recent content in Tags on Phuge</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://phuge.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://phuge.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
